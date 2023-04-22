@@ -48,7 +48,7 @@ SwiftTextFieldPreset
 TablerCoreDemo
 TablerDemo
 Workspace
-openalloc.github.io
+open-portfolio.github.io
 .github
 ```
 
@@ -62,7 +62,7 @@ $ open Workspace/openalloc.xcworkspace
 
 This repository is a member of the _OpenAlloc Project_.
 
-* [_OpenAlloc_](https://openalloc.github.io) - product website for all the _OpenAlloc_ apps and libraries
+* [_OpenAlloc_](https://open-portfolio.github.io) - product website for all the _OpenAlloc_ apps and libraries
 * [_OpenAlloc Project_](https://github.com/openalloc) - Github site for the development project, including full source code
 
 ## License
