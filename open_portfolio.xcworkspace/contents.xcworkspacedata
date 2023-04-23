@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../FlowAllocatorApp/FlowAllocatorApp.xcodeproj">
+      location = "group:../Flow-Allocator-App/Flow Allocator.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:../FlowAllocHigh">
@@ -11,7 +11,7 @@
       location = "group:../FlowAllocLow">
    </FileRef>
    <FileRef
-      location = "group:../FlowWorthApp/FlowWorthApp.xcodeproj">
+      location = "group:../Flow-Worth-App/Flow Worth.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:../FlowWorthLib">

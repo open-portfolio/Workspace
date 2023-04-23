@@ -25,12 +25,12 @@ FINporterFido
 FINporterTabular
 FlowAllocHigh
 FlowAllocLow
-FlowAllocatorApp
+Flow-Allocator-App
 FlowBase
 FlowStats
 FlowUI
 FlowViz
-FlowWorthApp
+Flow-Worth-App
 FlowWorthLib
 FlowXCT
 SwiftCompactor
